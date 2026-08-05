@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
         // Paso 4: cada integrante modifica ESTA misma línea con su propio saludo.
-        System.out.println("Hola Andres te odio mucho, la re concha de tu madreGKLSJÑLSDKAJÑLKJA");
+        System.out.println("Hola Andres te odio mucho, la re concha de tu madreGKLSJÑLSDKAJÑLKJA lñsfdakj fñklasj dlf");
     }
 }
